@@ -1,0 +1,46 @@
+CompanyCode,Name,Title,Pay,Exercised,Year Born
+APPL,Mr. Timothy D. Cook,CEO & Director,15682219,0,1961
+APPL,Mr. Luca  Maestri,CFO & Sr. VP,5017804,0,1964
+APPL,Mr. Jeffrey E. Williams,Chief Operating Officer,5051818,0,1964
+APPL,Ms. Katherine L. Adams,"Sr. VP, Gen. Counsel & Sec.",5307664,0,1964
+APPL,Mr. Chris  Kondo,Sr. Director of Corp. Accounting,0,0,0
+AMZN,Mr. Jeffrey P. Bezos,"Founder, Chairman, Pres & CEO",1681840,0,1964
+AMZN,Mr. Brian T. Olsavsky,Sr. VP & CFO,163200,0,1964
+AMZN,Mr. Jeffrey M. Blackburn,Sr. VP of Bus. Devel.,178500,0,1970
+AMZN,Mr. Jeffrey A. Wilke,Chief Exec. Officer of Worldwide Consumer,255613,0,1967
+AMZN,Mr. Andrew R. Jassy,Chief Exec. Officer of Amazon Web Services Inc.,266232,0,1968
+FB,Mr. Mark Elliot Zuckerberg,"Founder, Chairman & CEO",22554543,0,1984
+FB,Mr. David M. Wehner,Chief Financial Officer,1262590,0,1969
+FB,Ms. Sheryl Kara Sandberg,COO & Director,5304895,173017920,1969
+FB,Mr. Michael T. Schroepfer,Chief Technology Officer,1333840,139010112,1975
+FB,Ms. Susan Jannifer Simone Taylor,Chief Accounting Officer,0,0,1969
+GOOG,Mr. Sundar  Pichai,CEO & Director,1881066,0,1973
+GOOG,Mr. Lawrence Edward Page,Co-Founder & Director,0,0,1973
+GOOG,Mr. Sergey  Brin,Co-Founder & Director,0,0,1974
+GOOG,Ms. Ruth  Porat,Sr. VP & CFO,679357,0,1958
+GOOG,Mr. David C. Drummond J.D.,"Sr. VP of Corp. Devel., Chief Legal Officer & Sec.",669585,60167028,1963
+IBM,Ms. Virginia M. Rometty,"Chairman, Pres & CEO",6750826,0,1959
+IBM,Mr. James J. Kavanaugh,Sr. VP & CFO,1609951,0,1967
+IBM,Dr. John E. Kelly III,Exec. VP,1730936,0,1954
+IBM,Mr. Martin J. Schroeter,"Sr. VP of IBM Global Markets Global Financing, Marketing & Communications",2149949,0,1964
+IBM,Mr. Fletcher  Previn,Chief Information Officer,0,0,0
+INTEL,Mr. Robert H. Swan,CEO & Director,5808500,0,1960
+INTEL,Mr. Steven R. Rodgers,Exec. VP & Gen. Counsel,4085100,0,1966
+INTEL,Mr. Navin  Shenoy,Exec. VP & GM of Data Platforms Group,2920300,0,1974
+INTEL,Dr. Venkata S. Murthy Renduchintala,"Chief Engineering Officer and Group Pres of Technology, Systems Architecture & Client Group",5253900,0,1965
+INTEL,Mr. George S. Davis,Exec. VP & CFO,0,0,1958
+MSFT,Mr. Satya  Nadella,CEO & Director,13241564,0,1967
+MSFT,Mr. Bradford L. Smith,Pres & Chief Legal Officer,4327560,0,1959
+MSFT,Mr. William Henry Gates III,"Co-Founder, Technology Advisor & Non-Independent Director",0,0,1955
+MSFT,Ms. Amy E. Hood,Exec. VP & CFO,4910981,0,1972
+MSFT,Mr. Jean-Philippe  Courtois,"Exec. VP and Pres of Microsoft Global Sales, Marketing & Operations",3775280,0,1961
+ORCL,Mr. Lawrence J. Ellison,"Co-Founder, Chairman & CTO",1662828,204707008,1944
+ORCL,Ms. Safra Ada Catz,CEO & Director,965981,157652496,1962
+ORCL,Mr. Jeffrey O. Henley,Vice Chairman,658615,22751200,1945
+ORCL,Ms. Dorian E. Daley,Exec. VP & Gen. Counsel,1233291,8360855,1959
+ORCL,Mr. Edward  Screven,Exec. VP & Chief Corp. Architect,708619,20353500,1965
+TCENT,Mr. Huateng Pony  Ma,"Co-Founder, Chairman & CEO",0,0,1972
+TCENT,Mr. Chi Ping  Lau,Pres & Exec. Director,0,0,1973
+TCENT,Mr. Liqing  Zeng,Co-Founder & Advisor Emeritus,0,0,1970
+TCENT,Mr. Chenye  Xu,Co-Founder & Chief Information Officer,0,0,1971
+TCENT,Mr. Zhidong  Zhang,Co-Founder & Advisor Emeritus,0,0,1972

@@ -1,0 +1,10 @@
+CompanyCode,Address,City,State,Country,Phone,Website,Sector,Industry,Employees
+APPL,One Apple Park Way,Cupertino,CA,United States,408-996-1010,www.apple.com,Technology,Consumer Electronics,137000
+AMZN,410 Terry Avenue North,Seattle,WA,United States,206-266-1000,www.amazon.com,Consumer Cyclical,Internet Retail,647500
+FB,1601 Willow Road,Menlo Park,CA,United States,650-543-4800,investor.fb.com,Communication Services,Internet Content & Information,43030
+GOOG,1600 Amphitheatre Parkway,Mountain View,CA,United States,650-253-0000,www.abc.xyz,Communication Services,Internet Content & Information,114096
+IBM,1 New Orchard Road,Armonk,NY,United States,914-499-1900,www.ibm.com,Technology,Information Technology Services,350600
+INTEL,2200 Mission College Boulevard,Santa Clara,CA,United States,408-765-8080,www.intel.com,Technology,Semiconductors,107400
+MSFT,One Microsoft Way,Redmond,WA,United States,425-882-8080,www.microsoft.com,Technology,Software—Infrastructure,144000
+ORCL,500 Oracle Parkway,Redwood Shores,CA,United States,650-506-7000,www.oracle.com,Technology,Software—Infrastructure,136000
+TCENT,Tencent Binhai Towers,Shenzhen,,China,86 755 8601 3388,www.tencent.com,Communication Services,Internet Content & Information,60860
