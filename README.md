@@ -1,7 +1,7 @@
 # University Of Colorado Boulder Fall 2019 Structured Data project
 ## Contributors:
-* Wenbin Yang GitHub: 
-* Alyson Chen GitHub: 
+* Wenbin Yang GitHub: wenbin-yang
+* Alyson Chen GitHub: alysonchen
 * Alex Qaddourah GitHub: alexqaddourah
 ## Overiew
 * This project consisted of building a relational database using MySQL Workbench. The data used was stock data pulled from Yahoo Finance using the yahoo-finance Python library. The data base was built using mysql-connector-python Python library. All code is included in this repo and is reproducible but requires the following: Python and MySQL Workbench.
