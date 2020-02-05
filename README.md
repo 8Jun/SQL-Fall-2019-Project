@@ -6,6 +6,7 @@
 ## Overiew
 * This project consisted of building a relational database using MySQL Workbench. The data used was stock data pulled from Yahoo Finance using the yahoo-finance Python library. The data base was built using mysql-connector-python Python library. All code is included in this repo and is reproducible but requires the following: Python and MySQL Workbench.
 ## File breakdown
+### The CSV files in the repo can be used to recreate the project.
 1. companyinfo.py - used to compile company information for any publicaly traded company which Yahoo Finance has data on.
 ..* Note - csv files were edited to the orrect format once all profiles were pulled
 ``` python
