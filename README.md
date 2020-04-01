@@ -1,15 +1,26 @@
 # University Of Colorado Boulder Fall 2019 Structured Data project
 
+## Executive Summary:
+This project was designed to give our team a hands on approach to mySQL, and explore what more we could do with it. We had an interest into stock prices around this time, and thought that since stocks are neatly arranged in fields, we could build a database that would help us retrieve stock information. A key component of this project was using the SQL-Python connector to build and code the SQL database inside Python, and then run quieries in SQL language to answer self-created business questions.
+
+Our team first built the Python code (all code below) that imports the desired stock from Yahoo finance. It loads all of the requested stock codes into a directory. Then, we use the connector to build our database with table names and parameters. We then loaded all of the files in.
+
+Our report shows basic to more advanced SQL commands (from SELECT to JOIN to Subqueries) and answers several self-created business questions we believe top level managers might ask a business analyst. 
+
+Main takeaways from this project:
+* This project helped our team hone our skills with SQL language and explore what more can be connected to SQL. After this project, all of us have very good understanding of the SQL language and feel confident both building and navigating through a database, no matter the size. 
+
 ## Contributors:
+
 * Wenbin Yang GitHub: wenbin-yang
 * Alyson Chen GitHub: alysonchen
 * Alex Qaddourah GitHub: alexqaddourah
 
-## Overiew
+### Overiew
 * This project consisted of building a relational database using MySQL Workbench. The data used was stock data pulled from Yahoo Finance using the yahoo-finance Python library. The data base was built using mysql-connector-python Python library. All code is included in this repo and is reproducible but requires the following: Python and MySQL Workbench.
 
-## File breakdown
-* The CSV files in the repo can be used to recreate the project. When running the code make sure to change the file location
+### File breakdown
+*** The CSV files in the repo can be used to recreate the project. When running the code make sure to change the file location
 you want to save it to. These will be inputs since the code also uses the OS python library.
 1. companyinfo.py - used to compile company information for any publicaly traded company which Yahoo Finance has data on.
 ..* Note - csv files were edited to the orrect format once all profiles were pulled
