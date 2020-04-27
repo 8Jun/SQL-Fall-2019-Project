@@ -15,6 +15,7 @@ Main takeaways from this project:
 * Wenbin Yang GitHub: wenbin-yang
 * Alyson Chen GitHub: alysonchen
 * Alex Qaddourah GitHub: alexqaddourah
+* Junji Wiener GitHub: 8Jun
 
 ### Overiew:
 
