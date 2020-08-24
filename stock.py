@@ -6,7 +6,6 @@ import datetime #https://docs.python.org/3/library/datetime.html
 import sys #https://docs.python.org/3/library/sys.html
 import os ##https://docs.python.org/2/library/os.html?highlight=os#module-os
 import pathlib #https://docs.python.org/3/library/pathlib.html
-from urllib.parse import urlencode
 #ALL DATA WAS TAKEN FROM YAHOO FINANCE USING THE YAHOO FINANCE PACKAGE AVAILABLE VIA PYTHON
 
 #THIS FILE PULLS STOCKS HISTORICAL PRICE FOR ANY DATE RANGE VIA USER INPUT, 
