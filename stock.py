@@ -20,7 +20,7 @@ def create_file_get_stock():
         
         try:
             #Create Directory
-            create_directory = input("=> Would you like create and save this stock information to a new Directory located on your Desktop? [Y]/[N]:  ")
+            create_directory = input("=> Would you like create and save this stock information to a new Directory located where the stock.py file is saved? [Y]/[N]:  ")
             
             if create_directory == "Y":
                 
